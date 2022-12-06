@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "topthink/framework": "5.0.*",
+        "topthink/framework": "5.1.*",
         "google/cloud-translate": "^1.4"
     },
     "autoload": {
